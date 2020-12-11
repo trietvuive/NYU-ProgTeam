@@ -19,6 +19,9 @@
     <Filter Include="Source Files\Array">
       <UniqueIdentifier>{0ef95abb-3bb1-4ffa-8569-a432d9e040f9}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Intro-Graph">
+      <UniqueIdentifier>{5b01b314-f101-46c1-895d-26bf16bac1d4}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A.cpp">
@@ -56,6 +59,21 @@
     </ClCompile>
     <ClCompile Include="F.cpp">
       <Filter>Source Files\DP</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph-A.cpp">
+      <Filter>Source Files\Intro-Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph-B.cpp">
+      <Filter>Source Files\Intro-Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph-C.cpp">
+      <Filter>Source Files\Intro-Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph-D.cpp">
+      <Filter>Source Files\Intro-Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="Graph-E.cpp">
+      <Filter>Source Files\Intro-Graph</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

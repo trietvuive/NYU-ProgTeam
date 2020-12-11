@@ -150,6 +150,11 @@
     <ClCompile Include="E1.cpp" />
     <ClCompile Include="F.cpp" />
     <ClCompile Include="F1.cpp" />
+    <ClCompile Include="Graph-A.cpp" />
+    <ClCompile Include="Graph-B.cpp" />
+    <ClCompile Include="Graph-C.cpp" />
+    <ClCompile Include="Graph-D.cpp" />
+    <ClCompile Include="Graph-E.cpp" />
     <ClCompile Include="Template.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
