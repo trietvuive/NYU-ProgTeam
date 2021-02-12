@@ -1,4 +1,4 @@
-#include <vector>
+/*#include <vector>
 #include <iostream>
 #include <algorithm>
 #include<queue>
@@ -59,4 +59,4 @@ int main()
 		}
 		cout <<"Case "<<count++<<": "<< ans<<endl;
 	}
-}
+}*/

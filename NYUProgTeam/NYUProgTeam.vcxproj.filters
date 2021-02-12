@@ -22,6 +22,12 @@
     <Filter Include="Source Files\Intro-Graph">
       <UniqueIdentifier>{5b01b314-f101-46c1-895d-26bf16bac1d4}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\NYU Practice">
+      <UniqueIdentifier>{355779f3-45d6-4f6d-94df-4a5276b2c31c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Contest">
+      <UniqueIdentifier>{2a9aeb94-2ab0-42e9-9d73-bd503fa3ed9a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="A.cpp">
@@ -74,6 +80,18 @@
     </ClCompile>
     <ClCompile Include="Graph-E.cpp">
       <Filter>Source Files\Intro-Graph</Filter>
+    </ClCompile>
+    <ClCompile Include="NYU-B.cpp">
+      <Filter>Source Files\NYU Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="NYU-A.cpp">
+      <Filter>Source Files\NYU Practice</Filter>
+    </ClCompile>
+    <ClCompile Include="Contest-A.cpp">
+      <Filter>Source Files\Contest</Filter>
+    </ClCompile>
+    <ClCompile Include="Contest-E.cpp">
+      <Filter>Source Files\Contest</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

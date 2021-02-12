@@ -144,6 +144,8 @@
     <ClCompile Include="B1.cpp" />
     <ClCompile Include="C.cpp" />
     <ClCompile Include="C1.cpp" />
+    <ClCompile Include="Contest-A.cpp" />
+    <ClCompile Include="Contest-E.cpp" />
     <ClCompile Include="D1.cpp" />
     <ClCompile Include="DDP.cpp" />
     <ClCompile Include="E.cpp" />
@@ -155,6 +157,8 @@
     <ClCompile Include="Graph-C.cpp" />
     <ClCompile Include="Graph-D.cpp" />
     <ClCompile Include="Graph-E.cpp" />
+    <ClCompile Include="NYU-A.cpp" />
+    <ClCompile Include="NYU-B.cpp" />
     <ClCompile Include="Template.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
